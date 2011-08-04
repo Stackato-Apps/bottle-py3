@@ -1,4 +1,4 @@
 framework:
   type: wsgi
   runtime: python32
-  startcmd: python app.py
+  startcmd: python3.2 app.py
