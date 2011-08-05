@@ -1,5 +1,10 @@
 name: bottle-py3
+
 framework:
   type: wsgi
   runtime: python32
   startcmd: python3.2 app.py
+
+mem: 64M
+instances: 2
+
