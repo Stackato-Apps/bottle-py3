@@ -1,7 +1,7 @@
 name: bottle-py3
 
 framework:
-  type: wsgi
+  type: python
   runtime: python32
   startcmd: python3.2 app.py
 
