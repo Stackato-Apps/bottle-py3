@@ -1,7 +1,2 @@
 name: bottle-py3
-
-framework:
-  type: python
-  runtime: python32
-
 mem: 64M
